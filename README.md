@@ -1,5 +1,8 @@
 # Job Data Analysis with Power BI  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="50"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50"/>
 
+## You can see the project from here:
+   -> https://app.powerbi.com/links/h_xAYhZmmJ?ctid=7fa6b698-99fb-4ef6-81ba-067ba38bd389&pbi_source=linkShare 
+
 ## Overview
 This project focuses on analyzing job data related to the data industry in the United States using Power BI. The goal is to gain insights into job trends, salaries, and geographical distribution of data-related roles.
 
