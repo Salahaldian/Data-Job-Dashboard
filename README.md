@@ -56,4 +56,4 @@ Feel free to contribute by submitting issues or pull requests. For major changes
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please contact [your email or GitHub username].
+For any inquiries, please contact salahaldianhamid@gmail.com
