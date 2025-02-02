@@ -52,8 +52,5 @@ This project focuses on analyzing job data related to the data industry in the U
 ## Contribution
 Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any inquiries, please contact salahaldianhamid@gmail.com
