@@ -22,15 +22,6 @@ This project focuses on analyzing job data related to the data industry in the U
 - **Excel/CSV** files as data sources.
 - **Power Query** for data transformation.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Salahaldian/Data-Job-Dashboard.git
-   ```
-2. Open the Power BI project file (`Data Jobs Dashboard.pbix`) in Power BI Desktop.
-3. Load the provided sample data or connect your own job market data.
-4. Explore the dashboards and insights.
-
 ## Dashboards Included
 1. **Job Market Overview:** Total job listings, job trends over time, and job distribution by industry.
 2. **Salary Analysis:** Average salary, salary ranges by job title, and salary trends.
@@ -48,9 +39,6 @@ This project focuses on analyzing job data related to the data industry in the U
 - Integration with real-time job market data sources.
 - Advanced predictive analytics using machine learning models.
 - Enhanced visualizations for mobile and tablet devices.
-
-## Contribution
-Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
 For any inquiries, please contact salahaldianhamid@gmail.com
